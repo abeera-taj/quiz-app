@@ -1,0 +1,15 @@
+:root {
+  --lightpurple: #f1d4ff;
+  --purple: #38115f;
+}
+
+.main-section {
+  margin-left: 35em;
+  margin-right: 7em;
+}
+
+button .main-button {
+  color: var(--purple);
+  background: var(--lightpurple);
+  border-radius: 10px;
+}
